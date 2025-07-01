@@ -4,4 +4,4 @@ b=int(input("Enter b"))
 if a>b:
     print("A IS GREATER")
 else:
-    print("B IS GREATER")
+    print("B IS GREATER!!!")
