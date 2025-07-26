@@ -3,6 +3,7 @@
 n = int(input("Enter a number: "))
 fact = 1
 
+
 # Multiply all numbers from 1 to n
 for i in range(1, n + 1):
     fact *= i
