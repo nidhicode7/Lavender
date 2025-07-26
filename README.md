@@ -1,1 +1,1 @@
-For basic understanding
+After writing the code for the prime number checker, I copied and pasted it into the appropriate location. At this point, I wasn’t sure what the next step should be. I paused for a moment to think about how to continue. It’s always important to understand the proper sequence when working with files or code. Knowing what to do next can help avoid mistakes and ensure everything works smoothly.
