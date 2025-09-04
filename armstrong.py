@@ -1,4 +1,5 @@
 # Armstrong number: 153 = 1^3 + 5^3 + 3^3
+
 n = int(input("Enter a number: "))
 temp = n
 sum = 0
